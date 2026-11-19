@@ -1,0 +1,17 @@
+{
+  "name": "codeflow-web",
+  "version": "1.0.0",
+  "description": "CodeFlow visual development platform - demo web server",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.2",
+    "axios": "^1.12.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
